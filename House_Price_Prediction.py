@@ -1,10 +1,7 @@
 #####################################################################
-# UNSUPERVISED MACHINE LEARNING - HOUSE PRICE PREDICTION
+# HOUSE PRICE PREDICTION
 #####################################################################
-# If the problem is a classification problem, scaling the independent variable has no meaning or importance.
-# But if it is a regression problem, not cart, but light gbm, that is, if there is an optimization problem;
-# The size of the variables may be important for ordering, it can be faster to optimize when you standardize
-# the dependent variable
+
 
 ######################################
 # Libraries
